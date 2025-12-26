@@ -36,7 +36,7 @@ Uma jornada visual e interativa pelos principais marcos da bioética no Brasil e
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/timeline-bioetica.git
+   git clone https://github.com/JeffersonLFJ/timeline-bioethics.git
    ```
 
 2. Instale as dependências:
