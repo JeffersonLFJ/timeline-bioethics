@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "year": "Século XIX",
+    "title": "Ética Médica: Século XIX",
+    "summary": "No século XIX, a ética médica evoluiu do paternalismo hipocrático para os primeiros códigos de conduta profissional. Estes códigos estabeleceram deveres e responsabilidades dos médicos em relação a colegas, pacientes e sociedade.",
+    "fullText": "até o início desse século - A ética médica, inicialmente, era fortemente centrada na tradição hipocrática, fundamentada nos princípios da beneficência e da não maleficência, com uma orientação marcadamente paternalista. O primeiro Código de Ética Médica de que se tem registro é o Code of Institutes and Precepts Adapted to the Professional Conduct of Physicians and Surgeons, elaborado por Thomas Percival em 1803. Este código, seguido posteriormente por outros, como o Código da American Medical Association de 1847, visava regular o comportamento dos médicos, especialmente no que se refere às relações com seus colegas, pacientes e com a sociedade em geral, baseando-se nos deveres e responsabilidades inerentes à profissão médica.",
+    "categories": [
+      "Ética Médica e Clínica",
+      "Educação e Formação",
+      "Institucionalização"
+    ]
+  },
+  {
+    "id": 2,
+    "year": "1865",
+    "title": "Bernard e a Ética Experimental",
+    "summary": "Em 1865, Claude Bernard estabelece princípios éticos cruciais para a pesquisa médica experimental em humanos, influenciando o desenvolvimento da bioética moderna. Sua obra é um marco na discussão sobre os limites éticos da ciência.",
+    "fullText": "Claude Bernard publica “An introduction in the study of experimental medicine”, no qual propõe diretivas éticas para a realização de pesquisas em humanos.",
+    "categories": [
+      "Pesquisa e Experimentação",
+      "Ética Médica e Clínica",
+      "Institucionalização"
+    ]
+  },
+  {
+    "id": 3,
+    "year": "1876",
+    "title": "Lei Crueldade Animal Reino Unido",
+    "summary": "Em 1876, o Reino Unido aprova a primeira lei significativa sobre pesquisa com animais, marcando um ponto inicial na regulamentação ética da experimentação animal.",
+    "fullText": "É aprovada no Reino Unido a Cruelty to Animals Act (Lei de Crueldade contra Animais), frequentemente citada como a primeira legislação significativa voltada especificamente para a regulamentação da pesquisa com animais.",
+    "categories": [
+      "Pesquisa e Experimentação",
+      "Bioética Animal",
+      "Legislação e Direitos"
+    ]
+  }
+]
